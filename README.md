@@ -1,2 +1,0 @@
-# Sofiyyah-
-A portfolio website 
